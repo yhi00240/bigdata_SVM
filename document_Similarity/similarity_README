@@ -1,0 +1,5 @@
+1_svmMutliFile: svm으로 돌려서 나온 값들  다
+
+2_similarity(3): cosine유사도, Dice, Jaccard 계수를 사용하여 결과 비교한
+
+3_knn: cosine유사도를 이용한 kNN 방식으로 입력 문서와 가장 유사도가 높은 상위 k의 학습 문서를 추출하여 입력 문서의 범주를 결정한

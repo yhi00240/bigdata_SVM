@@ -1,0 +1,165 @@
+Browser 또는 Client 
+
+
+
+
+WWW에서 사용자 인터페이스를 제공해 주는 프로그램 
+
+모자이크,넷스케이프 등 
+
+
+
+
+하이퍼텍스트,하이퍼미디어, 또는 다른 미디어 사이의 연결 
+
+URL 형식에 의해 특정 단어에 대한 관련 문서를 지정 
+
+
+
+
+하이퍼링크되어있는 단어들을 포함한 하나의 문서 
+SGML(Standard Generalized Markup Language)
+
+
+
+
+SGML은 ISO 8879에 정의되어 있으며 모든 문서가 SGML DTD(Document 
+
+Type Definition)에 의해 정의될 수 있게 한다. 
+
+HTML은 이러한 SGML로 정의되고 인터넷 정보의 검색 도구로서의 다양한 기능을 
+
+포함할 수 있게 하기 위해 계속적인 확장이 이루어지고 있다. 
+
+
+HTML(HyperText Markup Language) 
+
+
+
+
+hypertext를 만드는 수단이며 사용자에게 보여줄 문서의 표현 형식을 문서 
+
+내부에 지정할 수 있게한다.
+
+Markup Language라는 것은 우리가 흔히 쓰는 troff이나 TeX와 같이 문서 
+
+중간에 문자나 문장의 형태에 대한 명령어를 삽입하는 형태의 문서 표현 언어이다. 
+
+HTML은 ISO에서 표준화한 SGML의 일부라고 할 수 있다. 
+
+웹의 하이퍼미디어 도큐먼트를 작성하고 표현하기위하여 사용되는 표준언어를 
+
+HTML (Hypertext Markup Language)이라 부른다. 
+
+HTML은 도큐먼트를 표현하기위한 포맷팅 언어인 SGML (Standard Generalized
+
+Markup Language)의 일종이다. 
+
+HTML을 사용함으로써 도큐먼트를 작성할때 정보(혹은 내용)와 그 표현 양식을 
+
+분리시켜서 생각할 수 있다. 즉, 같은 내용의 도큐먼트가 다양한 형태로 
+
+표현될 수 있다. 사용자 입장에서는 본래의 내용을 변경치 않고도 글자체나 
+
+글자크기, 문단 여백등 시각적 요소를 조절할 수 있게 되는 것이다. 
+
+HTML은 사용이 간편하다는 장점 때문에 널리 호평받고 있다. 
+
+웹 도큐먼트는 일반적으로 HTML로 쓰여지며 보통 ".html"로 끝나는 화일이름을 
+
+갖게 된다. 이 언어를 이용하여 각종 문자의 지정이나 크기,
+
+폰트 , 그림의 위치, 링크의 위치 등을 표현한다 . 
+
+
+
+
+HTTP(HyperText Transfer Protocol)
+
+
+
+
+WWW의 서버와 클라이언트가 hypertext 문서를 송수신하기 위해 사용하는 
+
+프로토콜(통신규약)이다. 
+
+웹 서버와 클라이언트가 상호 통신하기위하여 사용되는 언어를 HTTP (HyperText 
+
+Transfer Protocol)라 부른다. 모든 웹 서버와 클라이언트는 하이퍼미디어 
+
+도큐먼트를 주고받기위해서 HTTP를 이용하여야 한다. 
+
+이와 같은 이유로 웹 서버는 종종 HTTP서버라고도 불린다. 
+
+
+
+
+
+
+URL(Uniform Resource Locator)
+
+
+
+
+문서 내에 인터넷에 존재하는 정보나 서비스에 대해 접근 방법, 존재하는 위치, 
+
+자료의 이름, 및 접속할 포트의 번호를 hyperlink의 형태로 지정할 수 있게 한다. 
+
+사용할 프로토콜(ftp, telnet, http, news, gopher, file)과 접속할 호스트 이름과 
+
+포트 번호, 화일이 있는 곳의 디렉토리 위치, 그리고 화일의 이름으로 구성된다. 
+
+웹은 하이퍼미디어 link와 구별하여 도큐먼트상에서 언급되는 다른 
+
+네트웍서비스에 대한 link를 표현하기 위하여 URL(Uniform Resource Locator)
+
+이라 불리는 것을 사용한다. URL을 사용하면 인터넷상의 어떠한
+
+화일이나 서비스도 표현할수 있다. URL의 일반적인 형태는 다음과 같다 . 
+
+
+
+1. file://www.hcc.hawaii.edu/sound.au 
+
+2. telnet://www.hcc.hawaii.edu:1234 
+
+
+
+URL의 첫번째 부분, 즉 콜론이전까지는 접근 방법을 명시하고, 콜론이후는 
+
+일반적으로 데이타 위치나 서비스 컴퓨터의 주소를 나타낸다. 
+
+그 이후의 부분은 접속될 포트번호나, 화일명등을 나타낸다. 
+
+위의 두가지 예를 설명하면, 그 의미는 다음과 같다. 
+
+
+
+1. file://www.hcc.hawaii.edu/sound.au 
+
+   www.hcc.hawaii.edu라는 호스트에서 sound.au라는 음성화일을 찾아서 play 
+
+2. telnet://www.hcc.hawaii.edu:1234 
+
+   www.hcc.hawaii.edu의 포트1234번에 Telnet 
+
+
+
+이와같은 이유로 hyperlink는 다른 text나 media에 대한 연결 뿐만 아니라 
+
+다른 네트웍 서비스에 대한 연결도 할 수 있다. 
+
+즉 웹 browser는 단순히 웹 클라이언트일 뿐만 아니라 FTP, Gopher, telnet등의
+
+클라이언트 역할도 하게 된다. 
+
+HTML의 후속 버젼인 HTML+는 email URL도 포함하게 되어 hyperlink가 email도 
+
+자동적으로 보낼 수 있게 된다. 
+
+예를들면 하이퍼텍스트 상에서 email주소를 선택하면 mail프로그램을 수행하여 
+
+그 주소로 email을 보낼 준비를 하게되는 것이다. 
+
+
+Copyright ; 1998 건설 IT팀  KIKO . All rights Reserved.

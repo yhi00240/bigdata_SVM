@@ -1,0 +1,5 @@
+document_vector:
+support vector machine을 이용한 문서 분류기 구현입니다. 한글 텍스트 문서에서 형태소 분석기를 이용하여 명사만 추출하고, 이를 이용하여 데이터 파일 각각에 대해 문서 벡터(training data)를 구축했습니다. 문서 벡터(training data)를 SVM multiclass 엔진을 이용하여 model data를 만들고, 이 입력 문서(test data)를 model data에 classification하여 output값을 얻었습니다. 
+
+similarity:
+위 내용 토대로 임의의 문서벡터 2개에 대한 유사도를 분석하고자 했습니다. cosine유사도, Dice, Jaccard 계수를 사용하여 결과 비교하였습니다. 그리고 cosine유사도를 이용한 kNN 방식으로 입력 문서와 가장 유사도가 높은 상위 k의 학습 문서를 추출하여 입력 문서의 범주를 결정할 수 있습니다.

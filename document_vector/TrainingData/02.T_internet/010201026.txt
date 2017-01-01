@@ -1,0 +1,94 @@
+
+
+
+
+인터넷에서 최근 들어 가장 많은 각광을 받는 서비스가 있다면, 
+
+바로 WWW(World Wide Web)이다. 
+는 전 세계에 퍼져 있는 
+
+인터넷 내의 정보들을 서로 '거미줄처럼' 연결해 주고 있으며, 
+
+기존의 FTP, 고퍼, 뉴스 서버들과도 연결되어 있다.
+
+
+
+
+WWW는 "World Wide Web"
+을 의미하며 줄여서 web(웹) 또는 W3라고도 불리운다.
+
+
+CERN(the European Laboratory for Particle Physics)
+에서 시작한 
+
+World Wide Web project 는 분산 hypermedia 시스템의 하나로 컴퓨터 네트워크 
+
+(internet)에 연결된 사용자들에게 internet의 정보와 많은 회사,연구소, 
+
+대학등에서 제공 하는 서비스를 사용할 수 있게 하고 있다.
+
+
+
+
+란 다른 자료로의 링크 (link)를 포함하고 있는 자료를 말하는데, 
+
+WWW 에서 
+하이퍼텍스트 문서
+라 하면, 어떤 자료를 가지고 있고, 
+
+또 다른 문서로의 링크를 가지고 있는 문서를 가리킨다. 
+
+이러한 하이퍼텍스트 문서를 읽는 프로그램을 
+브라우저(brower)
+라고 한다.
+
+Web의 사용은 browser 프로그램을 실행함으로써 가능하다. 
+
+browser는 
+URL(Uniform Resource Locator)
+에 의해 서버에 존재하는 
+
+문서를 가져 온다. 
+
+
+
+정보의 제공자는 hypermedia서버를 만들고, 
+
+browser가 가져갈 수 있는 
+HTML(HyperText Markup Language) 문서
+를 만들어 
+
+이를 사용자가 이용할 수 있게 한다.
+
+문서는 일반적으로 hypertext로 되어 있고, 이 hypertext에는
+
+다른 정보에 대한 포인터를 가지고 있어서 사용자로 하여금 더 자세한 정보에 
+
+대한 선택을 할 수 있게 한다. 
+
+
+
+browser는 또한 기존에 있는 
+FTP, NNTP(the Internet news protocol), gopher
+와
+
+같은 서비스를 이용할 수 있게 한다.
+
+
+
+이러한 문서들이 단순한 문자뿐만 아니라, 그림, 음성, 동화상 등의 다양한 형
+
+태의 자료를 포함하고 있을 때, 하이퍼미디어(hypermedia)라고 부른다. 
+
+실제로 WWW은 하이퍼미디어형태로 자료를 보관하고 있다. 
+
+Hypermedia 는 hypertext가 단순한 text의 데이타만을 가지는데 반해 Hypermedia
+
+는 문서들에 대한 포인터뿐만 아니라, 다른 미디어 (images, sounds, movies) 에
+
+대한 포인터도 함께 가지고 있는 것이다. 
+
+
+
+
+Copyright ; 1998 건설 IT팀  KIKO . All rights Reserved.

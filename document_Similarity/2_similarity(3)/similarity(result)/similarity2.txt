@@ -1,0 +1,5 @@
+문서2
+output3과 output7의 유사도 분석
+DICE similarity : 0.0788177
+JACC similarity : 0.0410256
+COS similarity : 0.000517841

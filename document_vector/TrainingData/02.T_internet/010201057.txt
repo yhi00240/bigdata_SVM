@@ -1,0 +1,12 @@
+ 홈페이지 제작을 위한 HTML 다루기 
+HTML 문서의 기본 골격 
+
+    HTML 문서의 기본 구조는 크게 머릿글(Head)과 몸체(Body)부분으로 나뉘어지는데
+    머릿글(Head)은 문서의 제목(Title)이 기술되며, 몸체(Body)에는 문서의 내용이
+    들어가게 된다. 
+
+    문서의 머릿글(Head)에 들어가는 제목(Title)을 기술하는 태그는 title
+    제목 /title로 표기된다. 머릿글(Head)부분에서 title 
+    BACKSAN ELEMENTRY SCHOOL HOME PAGE /title 라고 기술한 대목은 
+    실제 Netscape Navigator와 같은 browser window의 타이틀 바에 들어가게
+    된다. 
